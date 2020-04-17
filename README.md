@@ -1,6 +1,6 @@
 MSM workflow for: Thomas, T.; Yuriev, E; Chalmers, D. K. "MarkovState Model Analysis of Haloperidol Binding to the D3 Dopamine Receptor."
 
-Abstract
+Abstract:
 We have developed Markov state models (MSMs) and hidden Markov models (HMMs) that describe the binding of haloperidol to the D3 dopamine receptor. Haloperidol is an antipsychotic drug that binds with nanomolar affinity to the D3 dopamine receptor, where it functions as an inverse agonist. The models were constructed using an adaptive sampling approach from 519 individual molecular dynamics simulations totaling 122 us of simulated time and encompass the entire drug binding process. They reveal short-lived metastable bound states and two distinct long-lived bound conformations that cannot be separated in affinity using our current methodology. This work extends the use of MSMs and HMMs to study ligand binding, which thus far has been limited to simpler systems.
 
 How to use:
